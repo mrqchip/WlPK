@@ -3,6 +3,6 @@ Version=1.0
 [Project1]
 ProjectPath=..\altiumlib\Schematic.LibPkg
 [Project2]
-ProjectPath=sch\v1\WlPK1.PrjPcb
+ProjectPath=Okablowanie\v1\Okablowanie1.PrjPcb
 [Project3]
 ProjectPath=..\TermWylPompy\TermWylPompy\sch\v1\TermWylPompy1.PrjPcb
