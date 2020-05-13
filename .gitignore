@@ -9,7 +9,7 @@ History
 .metadata
 *.o
 *.PcbDocPreview
-*.PcbDoc.htm
+*.Pcb*.htm
 Project Log*
 Project Output*
 *.rar
