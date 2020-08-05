@@ -2,6 +2,68 @@
 FileName = WlPK1.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Overlay
+      File : WlPK1.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Obrys
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : WlPK1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Obrys
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D22
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Dims
+      File : WlPK1.GM3
+
+    Adding Layer      : Dims
+
+    Adding Layer      : Obrys
+
+
+Used DCodes :
+    D10
+    D43
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : WlPK1.GBS
 
@@ -15,8 +77,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D12
-    D15
+    D10
     D16
     D17
     D18
@@ -28,6 +89,7 @@ Used DCodes :
     D24
     D25
     D26
+    D27
 *************************************************************
 
 *************************************************************
@@ -44,8 +106,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D12
-    D14
+    D10
     D15
     D16
     D17
@@ -58,22 +119,7 @@ Used DCodes :
     D24
     D25
     D26
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : WlPK1.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Obrys
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
+    D27
 *************************************************************
 
 *************************************************************
@@ -88,9 +134,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D12
-    D24
-    D28
+    D10
+    D22
     D29
     D30
     D31
@@ -103,35 +148,7 @@ Used DCodes :
     D38
     D39
     D40
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : WlPK1.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Obrys
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D24
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
+    D41
+    D42
 *************************************************************
 

@@ -1,9 +1,13 @@
 DRC Rules Export File for PCB: E:\Design\WlPK\sch\v1\WlPK1.PcbDoc
-RuleKind=Clearance|RuleName=ClearanceMains|Scope=Board|Minimum=118.11
+RuleKind=Clearance|RuleName=230VACNF|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=230VACLF|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=230VACN|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=230VACL|Scope=Board|Minimum=98.43
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRingOnMid|Scope=Board|Minimum=5.00
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRingOuterLayer|Scope=Board|Minimum=6.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
 RuleKind=Clearance|RuleName=ClearanceOuterLayer|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=ClearanceMidLayer|Scope=Board|Minimum=6.00
 RuleKind=Clearance|RuleName=InPolyClearance|Scope=Board|Minimum=11.81
