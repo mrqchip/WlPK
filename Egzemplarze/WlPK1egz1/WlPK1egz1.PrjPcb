@@ -107,7 +107,7 @@ DocumentUniqueId=
 
 [Parameter1]
 Name=NazwaProjektu
-Value=Włącznik 230VAC na przekaźnikach
+Value=Włącznik dwuprzyciskowy na przekaźnikach
 
 [Configuration1]
 Name=Sources
@@ -118,6 +118,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
